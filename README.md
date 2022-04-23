@@ -1,0 +1,1 @@
+Following the PluralSights Certified Kubernetes Administrator (CKA) course
